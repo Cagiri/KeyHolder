@@ -1,0 +1,3 @@
+# readitall
+
+Tessaract test reading text from image files...
